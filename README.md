@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/Imagen.gif" alt="Example 1" width="600" height="400" />
+  <img src="src/Imagen.gif" alt="Example 1" width="500" height="300" />
 </p>
 
 <h1 align="center">Hello, I'm Gamaliel - Developer</h1>
@@ -18,6 +18,8 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
     <a  target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
+    <a  target="_blank"> <img src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a"/> </a>
+    <a  target="_blank"> <img src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a"/> </a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a"/> </a>
