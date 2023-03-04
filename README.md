@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/Imagen.gif" alt="Example 1" width="500" height="300" />
+  <img src="src/Imagen.gif" alt="Example 1" width="550" height="350" />
 </p>
 
 <h1 align="center">Hello, I'm Gamaliel - Developer</h1>
